@@ -1,20 +1,20 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Gowtham Prasath K
 
-I'm a pre-final year [Your Major] student at [Your University], passionate about coding, technology, and continuous learning. Here's a bit about me and what I do.
+I'm a pre-final year student at Bannari Amman Institute of Technology, passionate about coding, technology, and continuous learning. Here's a bit about me and what I do.
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Education**: [Your Major], [Your University] (Expected Graduation: [Year])
+- 🎓 **Education**: B.tech Information Technology, Bannari Amman Institute of Technology ( 2022 - 2026 )
 - 💻 **Programming Languages**: 
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   - ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  - ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 - 📚 **Technical Skills**: 
   - ![Web Development](https://img.shields.io/badge/-Web%20Development-4DB33D?style=for-the-badge&logo=html5&logoColor=white)
-  - ![Data Structures](https://img.shields.io/badge/-Data%20Structures-4DB33D?style=for-the-badge&logo=databricks&logoColor=white)
-  - ![Algorithms](https://img.shields.io/badge/-Algorithms-4DB33D?style=for-the-badge&logo=algolia&logoColor=white)
+  - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   - ![Database Management](https://img.shields.io/badge/-Database%20Management-4DB33D?style=for-the-badge&logo=database&logoColor=white)
 
 ---
