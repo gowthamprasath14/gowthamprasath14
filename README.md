@@ -2,7 +2,7 @@
 <h3 align="center">Pre-Final Year Information Technology Student</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" height="200">
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="420" height="300">
 </p>
 
 
