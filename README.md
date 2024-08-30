@@ -18,14 +18,15 @@
 ## 🛠 Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=<URL_TO_YOUR_JAVA_LOGO>&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-4DB33D?style=for-the-badge&logo=html5&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Database Management](https://img.shields.io/badge/-Database%20Management-4DB33D?style=for-the-badge&logo=database&logoColor=white)
-
+![MySql](https://img.shields.io/badge/-MySql-255278?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ---
 
 ## 📈 Github Stats :
