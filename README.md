@@ -53,6 +53,7 @@
   <a href="https://github.com/gowthamprasath14"><img alt="GitHub" title="GitHub" height="28" width="28" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"></a>&nbsp;
   <a href="https://www.linkedin.com/in/your-profile"><img alt="LinkedIn" title="LinkedIn" height="28" width="28" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>&nbsp;
 <a href="https://leetcode.com/user6077f"><img alt="LeetCode" title="LeetCode" height="28" width="28" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>&nbsp;
+<a href="https://medium.com/@kgowthamprasath"><img alt="Medium" title="Medium" height="28" width="28" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"></a>&nbsp;
   <a href="mailto:gowthamprasath.it22@bitsathy.ac.in"><img alt="gmail" title="gmail" height="26" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"></a>&nbsp;
 </p>
 
