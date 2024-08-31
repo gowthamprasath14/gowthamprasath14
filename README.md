@@ -54,7 +54,7 @@
 ## 📲 Connect with me :
 <p align="left">
   <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile"><img alt="LinkedIn" title="LinkedIn" height="28" width="28" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gowtham-prasath-k-84221b268/"><img alt="LinkedIn" title="LinkedIn" height="28" width="28" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>&nbsp;&nbsp;
   <a href="https://github.com/gowthamprasath14"><img alt="GitHub" title="GitHub" height="28" width="28" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@kgowthamprasath"><img alt="Medium" title="Medium" height="28" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/2048px-Medium_logo_Monogram.svg.png"></a>&nbsp;&nbsp;
 <a href="https://leetcode.com/user6077f"><img alt="LeetCode" title="LeetCode" height="28" width="28" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>&nbsp;&nbsp;
