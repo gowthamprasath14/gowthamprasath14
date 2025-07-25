@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  I'm Gowtham Prasath K</h1>
-<h3 align="center">Pre-Final Year Information Technology Student</h3>
+<h3 align="center">Final Year Information Technology Student</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="420" height="300">
